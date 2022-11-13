@@ -1,0 +1,56 @@
+#body{
+    background-color: rgb(0, 0, 0);
+}
+#title {
+    text-align: center;
+    font-size: 35px;
+}
+#basket {
+    margin-top: -19vh;
+    font-size: 30px;
+}
+#count {
+    margin-top: -5vh;
+    margin-left: -5vh;
+    color: red;
+    font-size: 20px;
+}
+#logout{
+    margin-top: -7vh;
+    margin-left: 190vh;
+}
+p {
+    font-size: 25px;
+    text-align: center;
+    width: 20vh;
+    margin-right: 24vh;
+    margin-left: 0vh;
+}
+#photo {
+    width: 20vh;
+    height: 15vh;
+}
+#desc{
+    width: 30vh;
+    margin-left: 14vh;
+    text-align: center;
+}
+#price{
+    text-align: center;
+    margin-left: 13vh;
+    width: 30vh;
+}
+#nm {
+    font-size: 22px;
+}
+#name {
+    width: 30vh;
+   text-align: center;
+    margin-left: 19vh;
+}
+#icon {
+    margin-left: 5%;
+}
+#update {
+    
+}

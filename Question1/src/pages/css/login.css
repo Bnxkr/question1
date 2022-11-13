@@ -1,0 +1,66 @@
+
+p {
+    font-size: 12px;
+    color: rgb(40, 41, 41);
+}
+label {
+    font-size: 14px;
+    color: rgb(59, 61, 63);
+}
+input {
+    height: 40px;
+    width: 275px;
+    border-radius: 3px;
+    border: 2px solid rgb(220, 220, 220);
+}
+#eye {
+    display: flex;
+    margin-left: 39vh;
+    margin-top: -4vh;
+}
+#bsign {
+    background-color: yellow;
+    height: 40px;
+    color: rgb(109, 163, 0);
+    width: 275px;
+    border-radius: 3px;
+    border: 2px solid rgb(220, 220, 220);
+   
+}
+#pass {
+    margin-top: 0vh;
+}
+#ap {
+    height: 40px;
+    width: 275px;
+}
+#apple {
+    width: 30px;
+   
+    
+}
+img  {
+    margin-top: -5.5vh;
+    display: flex;
+}
+#google {
+    width: 30px;
+    height: 30px;
+   
+}
+#bap {
+    margin-top: 3vh;
+    background: white;
+    height: 40px;
+    width: 275px;
+    border-radius: 3px;
+    border: 2px solid rgb(188, 193, 197);
+}
+#bgo {
+    margin-top: 3vh;
+    background: white;
+    height: 40px;
+    width: 275px;
+    border-radius: 3px;
+    border: 2px solid rgb(188, 193, 197);
+}

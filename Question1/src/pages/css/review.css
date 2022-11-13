@@ -1,0 +1,43 @@
+#imgs {
+    margin-top: 10vh;
+    border-radius: 0px;
+    margin-left: -0.4vh;
+    width: 281px;
+    height: 30vh;
+}
+#loremm {
+    text-align: center;
+    margin-left: -0vh;
+    color: rgb(112, 111, 110);
+}
+p {
+    margin-top: 5vh;
+    float:left;
+    font-size: 14px;
+    margin-left: 9vh;
+}
+#one {
+    margin-top: 10vh;
+    margin-left: -33vh;
+    font-size: 15px;
+
+}
+#two {
+    font-size: 15px;
+    margin-top: 10vh;
+    margin-left: -12vh;
+    
+}
+.slide {
+    margin-left: -12vh;
+}
+#back{
+    font-size: 35px;
+    margin-top: 7vh;
+    margin-left: 14vh;
+}
+#next {
+    
+    font-size: 35px;
+    margin-left: 10vh;
+}

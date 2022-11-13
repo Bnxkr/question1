@@ -1,0 +1,151 @@
+
+.content {
+    height: 100vh;
+    overflow-y: scroll;
+    text-decoration: none;
+}
+.body {
+    height: 100%;
+}
+.exsearch {
+    /* display: flex; */
+    margin-top: 1vh;
+    margin-left: 0.5vh;
+}
+.exsearchicon {
+    display: flex;
+    margin-top: -5vh;
+    margin-left: 1vh;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+.eximg {
+    height: 30px;
+    width: 30px;
+    margin-left: 37vh;
+}
+.container {
+    overflow: hidden;
+}
+
+.wrapper{
+    width: 100%;
+    display: flex;
+    animation: slide 16s infinite;@keyframes slide{
+        0%{
+            transform: translateX(0);
+        }
+        25%{
+            transform: translateX(0);
+        }
+        30%{
+            transform: translateX(-100%);
+        }
+        50%{
+            transform: translateX(-100%);
+        }
+        55%{
+            transform: translateX(-200%);
+        }
+        75%{
+            transform: translateX(-200%);
+        }
+        80%{
+            transform: translateX(-300%);
+        }
+        100%{
+            transform: translateX(-300%);
+        }
+    }
+}
+.exhot {
+    display: flex;
+    margin-left:0.3vh;
+    margin-top: 1.1vh;
+    width: 280px;
+    border-radius: 0px;
+}
+.exlocation {
+    margin-top: 20vh;
+}
+.stars {
+    margin-top: -5vh;
+    display: flex;
+    
+}
+.exlocation {
+    display: flex;
+    margin-top: -10.3vh;
+    margin-left: 10vh;
+}
+.exdesc {
+    margin-top: -2vh;
+}
+.exheart {
+    margin-left: 35vh;
+    margin-top: -5vh;
+    font-size: 23px;
+    
+}
+.atri {
+    border-radius: 3px;
+    font-size: 16px;
+    background: rgb(211, 211, 211);
+    text-align: center;
+    margin-left: 5vh;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.exloc {
+    color: blue;
+}
+.nearby {
+    margin-top: -8vh;
+}
+.nearby ul {
+    margin-top: 8vh;
+    margin-left:-3vh ;
+}
+
+.Eimg4 {
+    width: 80px;
+    height: 70px;
+    
+    
+}
+.extexts {
+    margin-top: -13vh;
+    margin-left: 12vh;
+}
+.extexts img {
+    margin-left: -17vh;
+}
+
+#expom1 {
+    margin-left: -27vh;
+}
+
+.AnavbarE {
+    display: flex;
+    background: rgb(255, 255, 255);
+    height: 9vh;
+    font-size: 10px;
+    position: fixed;
+    margin-top: -1vh;
+    width: 280px;
+}
+.navbar ul {
+    margin-left: -1vh;
+    font-size: 13px;
+}
+ul p {
+    font-size: 13px;
+    text-align: center;
+    margin-left: -5.2vh;
+    margin-top: -1vh;
+    
+}
+#near {
+    margin-left: 10vh;
+}

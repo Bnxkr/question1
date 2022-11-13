@@ -1,0 +1,171 @@
+.bod {
+    background-color: rgb(239, 239, 239);
+    height: 120vh;
+}
+.bcg {
+    width: 280px;
+    margin-left: -0.40vh;
+    border-radius: 0px;
+    margin-top: -9vh;
+}
+.ac {
+    margin-top: -9vh;
+    color: white;
+    font-size: 18px;
+}
+.out {
+    font-size: 16px;
+    margin-left: 30vh;
+    margin-top: -5vh;
+    color: white;
+}
+.proff {
+    height: 180px;
+    width: 185px;
+    margin-left: 8vh;
+    margin-top: -5vh;
+    border-radius: 50%;
+}
+.comp {
+    margin-left: 10px;
+    margin-top: -1vh;
+}
+.name {
+   
+    font-size: 18px;
+    margin-top: -65px;
+    margin-left: 14vh;
+}
+.email {
+    
+    margin-top: -35px;
+    margin-left: 14vh;
+}
+.part2 {
+    background: white;
+    margin-top: -4vh;
+    height: 24vh;
+    border-radius: 5px;
+    width: 22vh;
+}
+.emoji {
+    height: 60px;
+    width: 75px;
+    margin-left: -1vh;
+    margin-top: -10vh;
+}
+.circ{
+    height: 50px;
+    width: 70px;
+    margin-left: 12vh;
+    margin-top: 3vh;
+}
+.percent{
+    margin-left: 15.5vh;
+    margin-top: -5.5vh;
+}
+.now {
+    font-size: 13px;
+    margin-left: 0px;
+    margin-top: -1vh;
+    color: rgb(0, 179, 255);
+}
+
+.third {
+    margin-left: 23vh;
+    background: rgb(255, 255, 255);
+    margin-top: -5.5vh;
+    height: 10vh;
+    width: 10vh;
+    border-bottom: 2px solid rgb(200, 196, 196);
+}
+.umbrella {
+    height: 30px;
+    width: 25px;
+    margin-left: 25vh;
+    margin-top: -25vh;
+}
+.twele{
+    font-size: 24px;
+    margin-left: 29vh;
+    margin-top: -22vh;
+} 
+.stay {
+    margin-left: 23.5vh;
+    margin-top: -15vh;
+    width: 100%;
+    color: rgb(95, 93, 93);
+}
+
+.part4 {
+    margin-left: 23vh;
+    background: rgb(255, 255, 255);
+    margin-top: -6.8vh;
+    height: 10vh;
+    width: 20vh;
+}
+.im9 {
+    width: 30px;
+    margin-top: 12vh;
+}
+.ten {
+    margin-left: 8vh;
+    font-size: 24px;
+    margin-top: -8vh;
+}
+.review {
+    margin-top: -2vh;
+    margin-left: 4vh;
+    color: rgb(124, 124, 124);
+}
+
+
+.fav {
+    margin-top: 5vh;
+    height: 30vh;
+}
+.ft {
+    margin-top: -4vh;
+}
+.hot2 {
+    margin-top: -9.5vh;
+    width: 25vh;
+    height: 17vh;
+    margin-left: 7px;
+    border-radius: 5px 0px 0px 5px;
+}
+.hot1 {
+    width: 15vh;
+    margin-left: 26.5vh;
+    height: 8.5vh;
+    margin-top: -2.2vh;
+    border-radius: 0px 5px 5px 0px;
+}
+
+.hot3 {
+    border-radius: 0px 5px 5px 0px;
+    height: 8.5vh;
+    margin-left: 26.5vh;
+    margin-top: -8.4vh;
+    width: 15vh;
+}
+.Anavbar {
+    display: flex;
+    background: rgb(255, 255, 255);
+    height: 8vh;
+    font-size: 10px;
+    position: fixed;
+    margin-top: -22vh;
+    width: 280px;
+}
+.navbar ul {
+    margin-left: -3vh;
+    font-size: 13px;
+}
+ul p {
+    font-size: 13px;
+    text-align: center;
+    margin-left: -3.2vh;
+    margin-top: -1vh;
+    
+}

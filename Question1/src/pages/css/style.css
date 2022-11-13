@@ -1,0 +1,48 @@
+*{
+    
+}
+
+body{
+    background-color: #ffffff;
+}
+
+/*Basic structure of slider*/
+.container{
+    width: 500px;
+    
+    
+   
+    overflow: hidden;
+    
+}
+
+/*Area of images*/
+.wrapper{
+    width: 100%;
+    display: flex;
+    animation: slide 25s infinite;
+}
+
+img{
+    width: 100%;
+}
+/*Animation activated by keyframes*/
+@keyframes slide{
+    
+    0%{
+        transform: translateX(0);
+    }
+    25%{
+        transform: translateX(-280px);
+    }
+    55%{
+        transform: translateX(-560px);
+    }
+    75%{
+        transform: translateX(-840px);
+    }
+    100%{
+        transform: translateX(-1120px);
+    }
+    
+}

@@ -1,0 +1,11 @@
+button {
+    height: 30px;
+    
+    background-color: rgb(4, 154, 224);
+}
+#onbord1 {
+    height: 70vh;
+    width: 280px;
+    margin-top: 5vh;
+    margin-left: -0.1vh;
+}
